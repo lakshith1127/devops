@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main()
-printf("Hello nimma!\n");
+{
+    printf("Hello nimmi\n");
+    return 0;
 }
-return 0;
